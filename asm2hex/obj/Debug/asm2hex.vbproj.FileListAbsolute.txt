@@ -1,0 +1,17 @@
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Debug\ASM2HEX.Form1.resources
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Debug\ASM2HEX.Form1.en-IN.resources
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Debug\asm2hex.vbproj.GenerateResource.Cache
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\bin\Debug\asm2hex.exe.manifest
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\bin\Debug\asm2hex.application
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\bin\Debug\asm2hex.exe
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\bin\Debug\asm2hex.pdb
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\bin\Debug\asm2hex.xml
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\bin\Debug\en-IN\asm2hex.resources.dll
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Debug\ASM2HEX.Resources.resources
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Debug\en-IN\asm2hex.resources.dll
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Debug\asm2hex.TrustInfo.xml
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Debug\asm2hex.exe.manifest
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Debug\asm2hex.application
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Debug\asm2hex.exe
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Debug\asm2hex.xml
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Debug\asm2hex.pdb

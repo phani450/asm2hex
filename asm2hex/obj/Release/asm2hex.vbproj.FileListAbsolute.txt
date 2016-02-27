@@ -1,0 +1,12 @@
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\bin\Release\asm2hex.exe
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\bin\Release\asm2hex.pdb
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\bin\Release\asm2hex.xml
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\bin\Release\en-IN\asm2hex.resources.dll
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Release\WindowsApplication1.Form1.en-IN.resources
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Release\asm2hex.vbproj.GenerateResource.Cache
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Release\en-IN\asm2hex.resources.dll
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Release\asm2hex.exe
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Release\asm2hex.xml
+C:\Users\MY\Documents\Visual Studio 2012\Projects\asm2hex\asm2hex\obj\Release\asm2hex.pdb
